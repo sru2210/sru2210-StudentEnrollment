@@ -1,5 +1,0 @@
-tasks:
-  - init: git remote set-url origin git@github.com:sru2210/sru2210-StudentEnrollment.git && sed "s/\r$//" commit-command.sh | bash && gp open README.md
-vscode:
- extensions:
-   - kyntrack.gitpod-plugin
